@@ -4,14 +4,14 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
-## 101, for those new to flow:
+## 101- for those new to flow:
 
 * [Automation Champion's how to series](https://automationchampion.com/learning-flow/)- 50 + examples of flow, this is a veritable garden of flow examples. Exceedingly well documented and explained, a great place to start. 
 * [Additional 101 links](https://sites.google.com/view/flowunofficial/tutorials-and-beginner-material) - A long list of 101 resources. 
 * [Learning flow](https://developingflow.com/learning-flow/)- Blog with a collection of 101 posts. 
 * [Limits impacting flow](https://dreamevent.secure.force.com/articleView?id=vpm_admin_flow_limits.htm&type=5)
 
-## Debugging/ error handling
+## Debugging/ error handling:
 
 * Native Tools: 
   * [New `debug` button](https://automationchampion.com/2018/05/22/getting-started-with-visual-workflow-part-7-learn-about-the-new-built-in-debug-tool-in-the-cloud-flow-designer/)
@@ -24,7 +24,7 @@
   * [Which process failed?](https://www.linkedin.com/pulse/ways-identify-your-failed-flowprocess-builder-sudhir-kumar/)
   * [Flow error handling utility built in flow](https://explorationsintosalesforce.wordpress.com/2017/10/18/visual-flow-error-handling-utility-flows/)- This is an interesting technique, use it as inspiration when deciding how to handle your own errors.
 
-## 201, for the advanced practioniners:
+## 201- for the advanced practitioner:
 
 * [Flow auto bulkification](https://help.salesforce.com/articleView?id=vpm_admin_bulkification.htm&type=5) - Flow will auto bulkify certain actions in flow, you may want to read this one a few times. 
 * [Size of collection variables](https://jenwlee.wordpress.com/2018/06/26/blink-you-may-have-missed-this-hidden-gem-get-count-via-flow-assignment/) - AKA why you no longer need to count in a loop

@@ -3,24 +3,24 @@
 > Useful resources for creating apps with [Salesforce Flow](https://www.youtube.com/watch?v=W8BJ4yRBga0&feature=youtu.be)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
-- [101- for those new to flow:](#101--for-those-new-to-flow)
-- [Debugging/ error handling:](#debugging-error-handling)
-- [201- for the advanced practitioner:](#201--for-the-advanced-practitioner)
-- [Best practices:](#best-practices)
-- [Testing/ Development lifecycle hacks:](#testing-development-lifecycle-hacks)
-- [Flow Libraries:](#flow-libraries)
-- [UI:](#ui)
-- [Updates:](#updates)
+- [101- for those new to flow](#101--for-those-new-to-flow)
+- [Debugging/ error handling](#debugging-error-handling)
+- [201- for the advanced practitioner](#201--for-the-advanced-practitioner)
+- [Best practices](#best-practices)
+- [Testing/ Development lifecycle hacks](#testing-development-lifecycle-hacks)
+- [Flow Libraries](#flow-libraries)
+- [UI](#ui)
+- [Updates](#updates)
 - [What makes for an awesome list?](#what-makes-for-an-awesome-list)
 
-## 101- for those new to flow:
+## 101- for those new to flow
 
 * [Automation Champion's how to series](https://automationchampion.com/learning-flow/)- 50 + examples of flow, this is a veritable garden of flow examples. Exceedingly well documented and explained, a great place to start. 
 * [Additional 101 links](https://sites.google.com/view/flowunofficial/tutorials-and-beginner-material) - A long list of 101 resources. 
 * [Learning flow](https://developingflow.com/learning-flow/)- Blog with a collection of 101 posts. 
 * [Limits impacting flow](https://dreamevent.secure.force.com/articleView?id=vpm_admin_flow_limits.htm&type=5) 
 
-## Debugging/ error handling:
+## Debugging/ error handling
 
 * Native Tools: 
   * [`debug` within a flow](https://automationchampion.com/2018/05/22/getting-started-with-visual-workflow-part-7-learn-about-the-new-built-in-debug-tool-in-the-cloud-flow-designer/) - This tool can help you to run flows within the designer, showing results in realtime. 
@@ -33,7 +33,7 @@
   * [Which process failed?](https://www.linkedin.com/pulse/ways-identify-your-failed-flowprocess-builder-sudhir-kumar/) - It is often unclear what flow or other automation failed, here are some tips and tricks. 
 
 
-## 201- for the advanced practitioner:
+## 201- for the advanced practitioner
 
 * [Flow auto bulkification](https://help.salesforce.com/articleView?id=vpm_admin_bulkification.htm&type=5) - Flow will auto bulkify certain actions in flow, you may want to read this one a few times. 
 * [Size of collection variables](https://jenwlee.wordpress.com/2018/06/26/blink-you-may-have-missed-this-hidden-gem-get-count-via-flow-assignment/) - AKA why you no longer need to count in a loop 
@@ -42,7 +42,7 @@
 * [Example flows](https://sites.google.com/view/flowunofficial/flows) 
 * [Direct data queries within a flow](https://www.youtube.com/watch?v=Mon6OF_rtfo&feature=youtu.be) - This seems to be the future of flow, it is becoming more and more powerful. 
 
-## Best practices: 
+## Best practices
 
 * [Flow vs. Process Builder](https://www.adminhero.com/automation-showdown-process-builder-vs-workflow/)- This article explores when to use a process builder and when to use a flow. 
 * [Platform event considerations](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_process_considerations.htm)- Suggestions for how to best play with platform events. 
@@ -55,14 +55,14 @@
   * [Consider using invokable processes with your flows](https://help.salesforce.com/articleView?id=process_advanced_invocable.htm&type=5)- Flows are very often fired from within a Process Builder, consider what logic should belong where. 
   * [Optimum performance in process builders](https://salesforcesidekick.com/2016/05/09/building-your-process-builder-for-optimum-performance-and-bulkification/) 
 
-## Testing/ Development lifecycle hacks:
+## Testing/ Development lifecycle hacks
 
 * [Load your test data via a CSV](http://www.snugsfbay.com/2016/07/what-load-of-business-data.html)- This is a neat trick to make it easier to maintain valid test data. 
 * [Pluralsight course on unit testing for admins](https://app.pluralsight.com/library/courses/salesforce-admin-essential-testing-techniques/table-of-contents) - Google for a free trial to plural sight. 
 * [How I Learned to Stop Worrying and Test My Flow](https://salesforceyoda.com/2014/05/06/how-i-learned-to-stop-worrying-and-test-my-flow/)- Older blog post that still holds a few useful tips and tricks. 
 * [Don't activate that flow](https://jenwlee.wordpress.com/2018/07/31/flow-tip-got-too-many-flow-versions/)- Blog explaining how in certain circumstances one can avoid activating a flow, creating another version. 
 
-## Flow Libraries: 
+## Flow Libraries
 
 * [Process Builder Blocks](https://github.com/mshanemc/processBuilderBlocks)- Quickly delete, manually share and complete other actions with these chunks of apex. 
 * [Salesforce Flow Utilities Library](https://github.com/thebrettbarlow/FlowUtilities)- Want to dedupe a string collection, remove oxford commas or manage multiple record types? This is the lib for you. 
@@ -71,7 +71,7 @@
 * [Amazon Echo Skill for Salesforce Flow](https://github.com/financialforcedev/alexa-salesforce-flow-skill) 
 * [Dynamic Flow Component](https://andyinthecloud.com/2017/12/10/introducing-the-dynamic-flow-component/)- Define rules to have a flow fire inside of the lightning utility bar. This is one of the more exciting developments in flow in the recent past, be sure to take a look. 
 
-## UI: 
+## UI
 
 * [Partial page update in flow](https://medium.com/@alexedelstein/the-update-screen-flow-action-component-2738e55498ff)- Allows one to update details on a page that have been edited by a flow without a full page refresh. 
 * [Different take on keeping data in sync](https://douglascayers.com/2017/09/12/keep-flows-and-data-in-sync-on-lightning-record-pages-winter-18/) 
@@ -81,7 +81,7 @@
   * [Lightning components in flow](https://developingflow.com/2018/06/11/lightning-components-in-flow/) 
   * [Trailheadx session on lightning flow](https://developer.salesforce.com/blogs/2018/06/icymi-trailheadx18-4-session-videos-about-process-automation.html) 
 
-## Updates: 
+## Updates
 
 * Spring 18' 
     * [Dynamic Flow invocation from Apex](https://developer.salesforce.com/blogs/2018/04/adding-clicks-not-code-extensibility-to-your-apex-with-lightning-flow.html)- Powerful new features for invoking flows via apex. Adds mocking/ testing features in to test flow involved apex. Interesting examples of firing different flows based on custom metadata, which can be managed by an admin. 

@@ -14,7 +14,7 @@
 ## Debugging/ error handling:
 
 * Native Tools: 
-  * [New `debug` button](https://automationchampion.com/2018/05/22/getting-started-with-visual-workflow-part-7-learn-about-the-new-built-in-debug-tool-in-the-cloud-flow-designer/)
+  * [`debug` within a flow](https://automationchampion.com/2018/05/22/getting-started-with-visual-workflow-part-7-learn-about-the-new-built-in-debug-tool-in-the-cloud-flow-designer/) - This tool can help you to run flows within the designer, showing results in realtime. 
   * [Debug Log](https://unhandledsunshine.com/2018/01/21/salesforce-automation-what-is-going-on-in-there/)- In some cases, tried and true debug logging is the best tool for the job. 
 
 * Other techniques:

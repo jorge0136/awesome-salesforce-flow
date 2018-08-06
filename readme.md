@@ -1,3 +1,9 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> Useful resources for creating apps with [Salesforce Flow](https://www.youtube.com/watch?v=W8BJ4yRBga0&feature=youtu.be)
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
+
 ## 101, for those new to flow:
 
 * [Automation Champion's how to series](https://automationchampion.com/learning-flow/)- 50 + examples of flow, this is a veritable garden of flow examples. Exceedingly well documented and explained, a great place to start. 
@@ -77,3 +83,13 @@
 * Summer 18' 
     * [Cloud Flow Design Guide](http://resources.docs.salesforce.com/214/11/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf)
     * [What changed in flow this update?](https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_forcecom_flow_design.htm)
+
+## What makes for an awesome list?
+Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and see if your list complies.
+
+  Read Related Awesome Pages :
+  * [Awesome Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Salesforce Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)

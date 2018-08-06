@@ -3,6 +3,15 @@
 > Useful resources for creating apps with [Salesforce Flow](https://www.youtube.com/watch?v=W8BJ4yRBga0&feature=youtu.be)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
+- [101- for those new to flow:](#101--for-those-new-to-flow)
+- [Debugging/ error handling:](#debugging-error-handling)
+- [201- for the advanced practitioner:](#201--for-the-advanced-practitioner)
+- [Best practices:](#best-practices)
+- [Testing/ Development lifecycle hacks:](#testing-development-lifecycle-hacks)
+- [Flow Libraries:](#flow-libraries)
+- [UI:](#ui)
+- [Updates:](#updates)
+- [What makes for an awesome list?](#what-makes-for-an-awesome-list)
 
 ## 101- for those new to flow:
 

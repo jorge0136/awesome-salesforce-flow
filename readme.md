@@ -44,6 +44,7 @@
 
 ## Best practices
 
+* [Top 10 Best Practices presentation](https://www.salesforce.com/video/1756610/) - Excellent Dreamforce presentation on flow best practices. 
 * [Flow vs. Process Builder](https://www.adminhero.com/automation-showdown-process-builder-vs-workflow/)- This article explores when to use a process builder and when to use a flow. 
 * [Platform event considerations](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_process_considerations.htm)- Suggestions for how to best play with platform events. 
 * [Don't do it all in one flow](https://jenwlee.wordpress.com/2016/10/11/maximize-maintainability-with-process-builder-and-componentized-visual-workflow/) - Modularize your flows. 
